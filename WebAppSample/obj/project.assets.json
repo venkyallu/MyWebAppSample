@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Samples\\WebAppSample\\WebAppSample\\WebAppSample.csproj",
+      "projectUniqueName": "E:\\Projects\\Samples\\WebAppSample\\MyWebAppSample\\WebAppSample\\WebAppSample.csproj",
       "projectName": "WebAppSample",
-      "projectPath": "E:\\Projects\\Samples\\WebAppSample\\WebAppSample\\WebAppSample.csproj",
+      "projectPath": "E:\\Projects\\Samples\\WebAppSample\\MyWebAppSample\\WebAppSample\\WebAppSample.csproj",
       "packagesPath": "C:\\Users\\apta\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Samples\\WebAppSample\\WebAppSample\\obj\\",
+      "outputPath": "E:\\Projects\\Samples\\WebAppSample\\MyWebAppSample\\WebAppSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

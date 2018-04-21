@@ -1,0 +1,11 @@
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\bin\Debug\netcoreapp2.0\WebAppSample.deps.json
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\bin\Debug\netcoreapp2.0\WebAppSample.runtimeconfig.json
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\bin\Debug\netcoreapp2.0\WebAppSample.runtimeconfig.dev.json
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\bin\Debug\netcoreapp2.0\WebAppSample.dll
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\bin\Debug\netcoreapp2.0\WebAppSample.pdb
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.csprojResolveAssemblyReference.cache
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.csproj.CoreCompileInputs.cache
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.AssemblyInfoInputs.cache
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.AssemblyInfo.cs
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.dll
+E:\Projects\Samples\WebAppSample\MyWebAppSample\WebAppSample\obj\Debug\netcoreapp2.0\WebAppSample.pdb
