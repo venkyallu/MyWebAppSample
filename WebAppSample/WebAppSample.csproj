@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>WebAppSample1</Authors>
   </PropertyGroup>
 
   <ItemGroup>
